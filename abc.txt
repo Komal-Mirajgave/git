@@ -4,3 +4,4 @@ Linear Regression
 Logistic Regression
 Labelled Data
 Reinforce Learning
+Unsupervised MLA
