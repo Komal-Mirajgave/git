@@ -2,3 +2,4 @@ Hello Everyone
 Lets learn some concepts of Machine Learning
 Linear Regression
 Logistic Regression
+Labelled Data
